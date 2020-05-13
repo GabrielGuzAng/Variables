@@ -8,3 +8,4 @@ if(prom>25):
 	print("\n Pasa con %.2f\n"%prom)
 else:
 	print("\n No pasa, tiene promedio de %.2f\n"%prom)
+print("\n finn del progrAMA\n")
