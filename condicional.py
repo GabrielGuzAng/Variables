@@ -15,4 +15,4 @@ if(prom>=6):
 	print("\n Pasa con %.2f y cant %i \n"%(prom_final,cant))
 else:
 	print("\n No pasa, tiene promedio de %.2f y cant \n"%(prom_final,cant))
-print("\n finn del progrAMA\n")
+print("\n version 2\n")
